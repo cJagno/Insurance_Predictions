@@ -50,4 +50,5 @@ Creating a deep learning Regression model to get better results.
 
 ![Capture9](https://user-images.githubusercontent.com/85266898/130532046-0fb3fbaf-af1c-496b-99bc-882af235e15e.PNG)
 
-To conclude the Deep Learning Regression model showed the best results. Though this was a small data set with limited features, it made for a great learning experience.
+To conclude the Deep Learning Regression model showed the best results. Though this was a small data set with limited features, iI was able to find that smoking is bad for you and will cost you more money down the road between Insurance and future health problems.
+
